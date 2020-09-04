@@ -8,16 +8,11 @@ The project was to build a **Maximum Power Point Tracker (MPPT)** to interface b
 
 ![image info](./pictures/solar-panel-power.JPG "PV Power" =500x)
 
-
 The problem we face is that this peak's location on the graph changes based on the sun's position in the sky, the ambient temperature, whether there is dust on the panels, clouds, etc... Thus we need to design an **optimization algorithm** that has us always at the peak, regardless of the conditions. A summary of the coding will be given below, for the full project report check out the docs. 
-<br   />
 
 # Coding
 
-In optimization terms, we have what is called a hill-climbing problem. 
 
-##### Ok, ok, but what does it actually do?
-It's actually pretty simple
 
 #### Team taking a well deserved victory lap after the project was done
 ![image info](./pictures/BBQ.jpeg "BBQ")
